@@ -1,4 +1,4 @@
-# Python-for-Data-Science
+# Python for Data Science Final Project Submission
 Final project submission for Simplilearn's Python for Data Science course.
 
 Comcast Telecom Consumer Complaints
